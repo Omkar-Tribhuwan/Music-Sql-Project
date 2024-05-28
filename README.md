@@ -8,3 +8,6 @@ This project is for beginners and will teach you how to analyze the music playli
 * Postgre SQL
 * PgAdmin4
 
+
+## Created By ##
+Name : Omkar Tribhuwan
